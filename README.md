@@ -1,4 +1,4 @@
-# Epherome
+# Goldmen Launcher
 
 [![Discord](https://img.shields.io/discord/941245225588908044.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ptPt44NPyR)
 
